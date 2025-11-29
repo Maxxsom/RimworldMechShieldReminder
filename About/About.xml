@@ -1,0 +1,20 @@
+<ModMetaData>
+    <name>MechShieldReminder</name>
+    <author>Maxxsom</author>
+    <url>https://github.com/Maxxsom/RimworldMechShieldReminder</url>
+    <packageId>maxxsom.mechshieldreminder</packageId>
+    <modVersion>1.0.0</modVersion>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+
+</ModMetaData>
