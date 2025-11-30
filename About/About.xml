@@ -3,7 +3,7 @@
     <author>Maxxsom</author>
     <url>https://github.com/Maxxsom/RimworldMechShieldReminder</url>
     <packageId>maxxsom.mechshieldreminder</packageId>
-    <modVersion>1.0.0</modVersion>
+    <modVersion>1.0.1</modVersion>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>

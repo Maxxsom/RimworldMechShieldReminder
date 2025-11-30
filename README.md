@@ -4,7 +4,7 @@
 
 ## 🌟 Features
 
-* **Tactical Notifications:**
+* **Notifications:**
     * Receives a "Neutral Event" letter when a shield drops (Charging or Cooldown).
     * Receives a notification when a shield is fully recharged and active again.
 * **Universal Compatibility:** Automatically detects any `ThingDef` that uses `CompProjectileInterceptor`. This means it works with:
